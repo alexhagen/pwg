@@ -1,0 +1,4 @@
+REQUIREMENTS = [
+                "matplotlib",
+                "numpy"
+                ]
